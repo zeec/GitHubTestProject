@@ -7,3 +7,4 @@ The goals for this project are:
 * to connect my *remote repository* on github.
 * push my local repository to github
 * test cloning my project
+* added a new line to test update

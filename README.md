@@ -8,3 +8,4 @@ The goals for this project are:
 * push my local repository to github
 * test cloning my project
 * added a new line to test update
+* new line

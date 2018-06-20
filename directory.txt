@@ -1,5 +1,5 @@
 total 4
--rw-r--r-- 1 zacha 197609   0 Jun 19 23:06 directory.txt
+-rw-r--r-- 1 zacha 197609   0 Jun 19 23:15 directory.txt
 -rw-r--r-- 1 zacha 197609  66 Apr 27 16:29 output
 -rw-r--r-- 1 zacha 197609  64 Apr 27 16:29 rand5x3mat.py
 -rw-r--r-- 1 zacha 197609 321 Apr 27 16:51 README.md

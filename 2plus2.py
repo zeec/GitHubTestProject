@@ -1,5 +1,8 @@
 print(2+2)
         
-        
-for l in 'Zachary':
+name = 'Zachary'
+
+for l in name:
     print(l)
+
+[print(l) for l in name[::-1]]    
